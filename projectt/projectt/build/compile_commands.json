@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/morales/projectt/build",
+  "command": "/usr/bin/g++  -I/home/morales/projectt/include -g -std=gnu++14 -o CMakeFiles/LeetCode130.dir/src/main.cpp.o -c /home/morales/projectt/src/main.cpp",
+  "file": "/home/morales/projectt/src/main.cpp"
+},
+{
+  "directory": "/home/morales/projectt/build",
+  "command": "/usr/bin/g++  -I/home/morales/projectt/include -g -std=gnu++14 -o CMakeFiles/LeetCode130.dir/src/solution.cpp.o -c /home/morales/projectt/src/solution.cpp",
+  "file": "/home/morales/projectt/src/solution.cpp"
+}
+]

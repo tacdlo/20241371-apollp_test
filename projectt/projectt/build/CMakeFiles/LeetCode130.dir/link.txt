@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/LeetCode130.dir/src/main.cpp.o CMakeFiles/LeetCode130.dir/src/solution.cpp.o -o LeetCode130 

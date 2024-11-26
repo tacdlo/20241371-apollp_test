@@ -1,0 +1,3 @@
+/home/morales/projectt/build/CMakeFiles/LeetCode130.dir
+/home/morales/projectt/build/CMakeFiles/edit_cache.dir
+/home/morales/projectt/build/CMakeFiles/rebuild_cache.dir
